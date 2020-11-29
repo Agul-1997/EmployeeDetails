@@ -3,11 +3,6 @@ package employees;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author Agul Krishnan
- */
-
 abstract class EmployeeData{
     int id;
     String name;
